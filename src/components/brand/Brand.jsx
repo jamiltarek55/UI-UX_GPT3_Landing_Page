@@ -21,5 +21,4 @@ const Brand = () => (
     </div>
   </div>
 );
-
-export default Brand;
+reexport default Brand;
